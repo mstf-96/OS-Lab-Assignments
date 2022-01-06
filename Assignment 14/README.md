@@ -5,8 +5,8 @@ one operand functions :
 - cos
 - tan
 - cot
-- sqrt
-to use two operand functions enter the first number then press function button then enter the second number and press equal button\
+- sqrt\
+To use two operand functions enter the first number then press function button then enter the second number and press equal button\
 Two operand functions :
 - add
 - sub
