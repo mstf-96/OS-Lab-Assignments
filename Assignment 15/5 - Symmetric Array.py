@@ -1,5 +1,5 @@
 print(".:: Symmetric Array ::.\n")
-print("Please enter your Array :")
+print("Please enter your Array. Example : 1 2 3 2 1")
 array = list(map(int, input("Array = ").split()))
 #array = [1,2,3,2,1]
 symmetric = True 
